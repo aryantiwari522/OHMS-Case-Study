@@ -1,0 +1,37 @@
+{"properties": [
+  {
+    "name": "security.service.url",
+    "type": "java.lang.String",
+    "description": "A description for 'security.service.url'"
+  },
+  {
+    "name": "ohms.app.jwtSecret",
+    "type": "java.lang.String",
+    "description": "A description for 'ohms.app.jwtSecret'"
+  },
+  {
+    "name": "ohms.app.jwtExpirationMs",
+    "type": "java.lang.String",
+    "description": "A description for 'ohms.app.jwtExpirationMs'"
+  },
+  {
+    "name": "ohms.app.jwtExpirationMs",
+    "type": "java.lang.String",
+    "description": "A description for 'ohms.app.jwtExpirationMs'"
+  },
+  {
+    "name": "ohms.app.jwtSecret",
+    "type": "java.lang.String",
+    "description": "A description for 'ohms.app.jwtSecret'"
+  },
+  {
+    "name": "ohms.app.jwtSecret",
+    "type": "java.lang.String",
+    "description": "A description for 'ohms.app.jwtSecret'"
+  },
+  {
+    "name": "ohms.app.jwtSecret",
+    "type": "java.lang.String",
+    "description": "A description for 'ohms.app.jwtSecret'"
+  }
+]}
